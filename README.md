@@ -1,4 +1,4 @@
-# AI Principle and Technique - Assignment III
+# AI Principle and Technique
 
 This repository contains the implementation of various AI algorithms and techniques as part of **Assignment III** for the course **AI Principle and Technique**.
 
